@@ -1,0 +1,7 @@
+{
+  "name": "draft-js-study",
+  "description": "For studying [draft.js](https://facebook.github.io/draft-js/docs/overview.html#content).",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
